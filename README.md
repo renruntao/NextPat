@@ -2,4 +2,5 @@
 Human-AI Collaboration for Design Ideation and Patent Drafting
 
 Demo Video:
-https://github.com/user-attachments/assets/88223256-c576-4db8-b50f-c0453f09be68
+https://github.com/user-attachments/assets/65252ed8-a419-439a-9575-0ddc19360e9f
+
