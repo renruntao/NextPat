@@ -21,6 +21,12 @@ NextPat integrates a dual-drive approach based on **heuristic reasoning** and **
 - **Multi-Agent System:** Specialized agents for technical analysis, claim drafting, and legal verification.
 - **Proven Efficacy:** Experimental results show significant advantages in innovation dimension and output efficiency compared to human-only or AI-only schemes.
 
-##🛠️ Installation & Usage (Optional/Coming Soon)
+## 📖 Research Background
+
+This project is the implementation of the theoretical model proposed in our study: 
+> *“Human-AI Collaboration for Design Ideation and Patent Drafting.”*
+
+## 🛠️ Installation & Usage (Optional/Coming Soon)
+
 Instructions on how to access the tool or API would go here.
 
